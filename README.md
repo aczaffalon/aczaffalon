@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Adriano Zaffalon 👋
 
-<!--
-**aczaffalon/aczaffalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software Júnior, formado em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Tenho interesse em criar soluções práticas para problemas reais, com foco em logística, gestão financeira, produtividade e pequenos negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- JavaScript
+- TypeScript
+- Flutter
+- Java
+- HTML e CSS
+- Git e GitHub
+
+## Projetos em evolução
+
+- Aplicação para cálculo de rotas, custos e rentabilidade de entregas
+- Sistema de gestão financeira pessoal
+- Sistema de gestão para confeitaria desenvolvido como TCC
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/adrianozaffalon
